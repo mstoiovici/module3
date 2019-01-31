@@ -33,3 +33,5 @@ if __name__=="__main__":
    aminat.changeName("Aminat2")
    aminat.getDetails()
     
+   
+   
