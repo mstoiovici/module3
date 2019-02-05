@@ -1,0 +1,32 @@
+1.The London and Ireland Shipping Company PLC (LISC) was founded in 1852 and owns a fleet of cargo ships. 
+The company had historically run passenger liners, but recent policy decisions involved the sale of all passenger-carrying vessels. 
+The company currently has 14 vessels,including one oil tanker and one tugboat operating out of Liverpool. 
+Most of the vessels are registered in Liberia for tax reasons.
+
+Each ship has one or more holds divided into spaces.
+ The holds are defined by steel bulk headsand the spaces are defined by shelf racks or other physical dividers. 
+ Sister ships, built by the same shipbuilders and to the same designs have similar names, such as Pride of Ireland, Queenof Ireland, Song of Ireland 
+and Warrior of Ireland. Sister ships also have identical cargo storage facilities.
+
+ 
+LISC issues contracts to agents for one or more manifests (lists of cargo items to be shipped).
+LISC's charges for cargo carried are based on the number of spaces the cargo requires for storage.
+The types of cargo typically carried by LISC include grain, coal and ores (carried only in ships equipped with bulk cargo holds). 
+They also transport sacked grain, heavy cases, containers(which may be carried on deck), pallets and so on.
+
+ 
+Cargo items may take up less than one space in a hold, or one or more spaces, depending on the size of the item. 
+A space may therefore contain several small cargo items.
+
+ 
+The ships owned by LISC are kept as busy and as full as possible, in order to maximise the profits that each vessel makes and minimise running & operating costs. 
+LISC's ships ply most of the seasof the world, but tend to operate mainly in the Mediterranean, the North and Mid Atlantic andthe Indian Ocean. 
+Different ships require different crew complements.
+
+ 
+LISC intends to create a computer based information system that will be able to perform the following tasks:
+- record the voyages of each ship with the start and end ports.
+-record the cargo held by a ship on each voyage
+- keep records of their employees and the ships they are assigned to
+- producing invoices for agents and customers keep a record of customers' payments on invoices
+- analyse the efficiency of use of cargo space and of percentage wasted cargo space for ships voyages
