@@ -1,0 +1,24 @@
+PhoneBook Project -Defining a software project
+
+We need to create an online phone book platform which will be used by users to find businesses and individuals. They might search using different filters.
+
+Must have:
+- a database with 3 tables (one for all businesses, one for individuals/people and one for location - which will retrieve the coordinates for all postcodes from the other two tables)
+- businesses table  will have the following columns/filters:busyness type, business name, postcode, addresses, telephone number
+- people table will have the following columns/filters: first name, surname, postcode, addresses, telephone numbers
+- a search on businesses type or businesses name
+- a search on individuals surname
+- a search on location
+- result of the search would be in alphabetical order 
+
+Could have:
+- ask the user for the filter on businesses, so the result might be retrieved using any of the filters from the database
+- ask the user for the filter on individuals/people, so the result might be retrieved using any of the filters from the database
+- a search on individuals by first name
+- in the search bar under the location input form there should be an option to refine the search by location radius 
+
+Would have:
+- ads for gifts when users are searching for individuals
+- location targeted ads
+- location targeted front-end background e.g. highland cows if the user looks for businesses in Scotland
+- a search history 
